@@ -1,1 +1,1 @@
-This is my demo proj
+My proj
